@@ -1,6 +1,6 @@
-## Вопросы по Javascript
+## Вопросы по JavaScript
 
-- [Что такое javascript?](1.md)
+- [Что такое JavaScript?](1.md)
 - [Типы данных в JavaScript?](2.md)
 - [Разница между == и === (нестрогое/строгое равенство)?](3.md)
 - [Что такое Strict mode в JavaScript?](4.md)
