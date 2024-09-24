@@ -15,6 +15,11 @@
 - [Что такое модули в TypeScript?](13.md)
 - [Что такое геттеры и сеттеры?](14.md)
 - [В чем разница между extends и implements в TypeScript?](15.md)
+- [Что такое абстрактные классы?](16.md)
+- [Что такое Type Assertions в TypeScript?](17.md)
+- [Модификаторы доступа в TypeScript?](18.md)
+- [Что такое Generics?](19.md)
+- [Что такое Mixins?](20.md)
 
 
 Что такое директивы с тремя наклонными чертами (Triple-Slash Directives), их типы?
