@@ -40,6 +40,11 @@
 - [Разница между createElement() и cloneElement()?](38.md)
 - [Что такое useReducer()?](39.md)
 - [Расскажите о хуках useCallback(), useMemo(), useImperativeHandle(), useLayoutEffect()?](40.md)
+- [Для чего предназначен метод registerServiceWorker() в React?](41.md)
+- [Чем React Router отличается от обычной маршрутизации?](42.md)
+- [Назовите основную цель React Fiber?](43.md)
+- [Какие типы данных может возвращать render?](44.md)
+- [Разница между memo и useMemo?](45.md)
 
 
 Что такое портал (Portal)?
@@ -52,3 +57,8 @@
 Что делает метод shouldComponentUpdate?
 Как реализовать однократное выполнение операции при начальном рендеринге?
 Что такое распределенный компонент?
+Как отрендерить HTML код в React-компоненте?
+Зачем в setState() нужно передавать функцию?
+Какие хуки были добавлены в React Router версии 5?
+Как передавать пропсы в React Router?
+Что такое Reselect и как он работает?
