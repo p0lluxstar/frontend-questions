@@ -68,3 +68,4 @@
 Как передавать пропсы в React Router?
 Что такое Reselect и как он работает?
 Что такое синтетические события (SyntheticEvent) в React?
+Как использовать React.lazy и React.Suspense для запуска кода приложения?
