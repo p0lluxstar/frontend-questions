@@ -13,7 +13,7 @@
 - [Что такое IndexedDB в браузере? Преимущества IndexedDB?](11.md)
 - [Что такое Service Workers?](12.md)
 - [Что такое Web Workers?](13.md)
-- [Что такое Web Worklet?](14.md)
+- [Разница RESTful API и SOAP](14.md)
 - [Механизм установки сеанса между клиентом и сервером?](15.md)
 - [Что Такое API?](16.md)
 - [Что такое CDN?](17.md)
@@ -54,6 +54,7 @@
 - [Разница между HTTP/2 и HTTP/3?](52.md)
 
 
+Что такое Web Worklet?
 Что такое прогрессивный рендеринг?
 Что такое прогрессивный SSR?
 SSR (Server-Side Rendering) и CSR (Client-Side Rendering) плюсы и минусы?
