@@ -65,6 +65,8 @@
 - [Что такое шаблонные литералы (Template Literals)?](87.md)
 - [Что такое ES6 модули?](88.md)
 - [Модификаторы доступа класса?](89.md)
+- [Разница между .stringify и .parse JSON?](90.md)
+- [Разница между .prototype от [[Prototype]]?](91.md)
 
 
 JS in Browser:
