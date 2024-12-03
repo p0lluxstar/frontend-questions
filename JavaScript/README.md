@@ -67,6 +67,10 @@
 - [Модификаторы доступа класса?](89.md)
 - [Разница между .stringify и .parse JSON?](90.md)
 - [Разница между .prototype от [[Prototype]]?](91.md)
+- [Разница между `[[Prototype]]` и `__proto__`?](92.md)
+- [Циклы while, do while, for in, for of?](93.md)
+- [Методы Object.keys() и Object.values()?](94.md)
+- [Деструктуризация объектов и массивов?](95.md)
 
 
 JS in Browser:
