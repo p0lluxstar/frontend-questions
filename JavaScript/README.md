@@ -71,6 +71,10 @@
 - [Циклы while, do while, for in, for of?](93.md)
 - [Методы Object.keys() и Object.values()?](94.md)
 - [Деструктуризация объектов и массивов?](95.md)
+- [Разница между методами .slice() и .splice()?](96.md)
+- [Разниц между Object.freeze() и Object.seal()?](97.md)
+- [Как работают методы .find(), .findIndex() и .indexOf()?](98.md)
+- [Cтадии рендера отрисовки страницы?](98.md)
 
 
 JS in Browser:
@@ -108,9 +112,6 @@ Async JS:
 Что такое мемоизация? Реализуйте базовую логику функции для мемоизации?
 Что такое цепочка вызовов функций (chaining)? Как реализовать такой подход? 
 Как работает метод Object.create()?
-Разниц между Object.freeze() и Object.seal()?
-Разница между методами .slice() и .splice()?
-Как работают методы .find(), .findIndex() и .indexOf()?
 Плюсы и минусы использования use strict?
 Разница между методами .push(), .pop(), .shift() и .unshift()?
 Разница между typeof и instanceof?
