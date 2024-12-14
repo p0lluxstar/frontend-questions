@@ -69,12 +69,13 @@
 - [Разница между .prototype от [[Prototype]]?](91.md)
 - [Разница между `[[Prototype]]` и `__proto__`?](92.md)
 - [Циклы while, do while, for in, for of?](93.md)
-- [Методы Object.keys() и Object.values()?](94.md)
+- [Методы Object.keys(), Object.values() и Object.entries()](94.md)
 - [Деструктуризация объектов и массивов?](95.md)
 - [Разница между методами .slice() и .splice()?](96.md)
 - [Разниц между Object.freeze() и Object.seal()?](97.md)
 - [Как работают методы .find(), .findIndex() и .indexOf()?](98.md)
-- [Cтадии рендера отрисовки страницы?](98.md)
+- [Cтадии рендера отрисовки страницы?](99.md)
+- [Способы установки прототипа объeкта?](100.md)
 
 
 JS in Browser:
