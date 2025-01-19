@@ -54,3 +54,4 @@
 - [Ключевое слово is, type guards, type predicates?](52.md)
 - [Условный тип `ReturnType`?](53.md)
 - [Оператор `infer`?](54.md)
+- [Типы ThisType, InstanceType?](55.md)
